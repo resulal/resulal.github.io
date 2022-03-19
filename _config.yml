@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Thinking Forward"
 title_separator          : "-"
-subtitle                 : Resul Al
+subtitle                 : Resul Al, PhD
 name                     : "Resul Al"
 description              : "Welcome to my corner of the internet."
 url                      : "https://resulal.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -96,7 +96,7 @@ author:
   name             : "Resul Al"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : >- 
-    Process Systems Engineer
+    Process Systems Engineer,
     Novo Nordisk A/S
   location         : "Copenhagen, Denmark"
   email            : "meresul@gmail.com"
