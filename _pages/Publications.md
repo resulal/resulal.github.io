@@ -10,7 +10,9 @@ For a complete list of my publications, please visit my [RG profile](https://www
 
 Below is a select list.
 
-- Stochastic simulation-based superstructure optimization framework for process synthesis and design under uncertainty. _Computers & Chemical Engineering_. DOI:[10.1016/j.compchemeng.2020.107118](https://doi.org/10.1016/j.compchemeng.2020.107118)
+- Stochastic simulation-based superstructure optimization framework for process synthesis and design under uncertainty. _Computers & Chemical Engineering_. DOI:10.1016/j.compchemeng.2020.107118\
+[Full Text](https://doi.org/10.1016/j.compchemeng.2020.107118){: .btn .btn--success}
+
 
 - An integrated framework for plant data-driven process modeling using deep-learning with Monte-Carlo simulations. _Computers & Chemical Engineering_. DOI:[10.1016/j.compchemeng.2020.107071](https://doi.org/10.1016/j.compchemeng.2020.107071)
 
