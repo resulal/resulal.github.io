@@ -2,7 +2,7 @@
 title: Publications 
 permalink: /publications/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 ResearchGate keeps a great track of academic research output.\
