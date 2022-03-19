@@ -96,23 +96,24 @@ author:
   name             : "Resul Al"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : >- 
-    Process systems engineering, Novo Nordisk A/S
+    Process Systems Engineer
+    Novo Nordisk A/S
   location         : "Copenhagen, Denmark"
   email            : "meresul@gmail.com"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "elliottking93@gmail.com"
-    - label: "Resul Al on Twitter"
+    - label: "aresulal"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aresulal"
-    - label: "Resul Al on GitHub"
+    - label: "resulal"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/resulal"
-    - label: "Resul on Medium"
+    - label: "@Resul"
       icon: "fab fa-medium"
       url: "https://medium.com/@Resul"
-    - label: "Resul Al on Linkedin"
+    - label: "resulal"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/resulal/"
 
