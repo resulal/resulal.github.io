@@ -1,8 +1,8 @@
 ---
 title: PSE Tools
 permalink: /psetools/
-layout: single
-author_profile: true
+layout: splash
+author_profile: false
 
 
 projects_row1:
