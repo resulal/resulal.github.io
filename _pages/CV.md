@@ -1,6 +1,6 @@
 ---
 title: CV
 permalink: /CV/
-# layout: posts
+layout: single
 author_profile: true
 ---

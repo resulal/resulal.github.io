@@ -96,8 +96,7 @@ author:
   name             : "Resul Al"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : >- 
-    Process Systems Engineer,
-    Novo Nordisk A/S
+    "Process Systems Engineer\Novo Nordisk A/S"
   location         : "Copenhagen, Denmark"
   email            : "meresul@gmail.com"
   links:

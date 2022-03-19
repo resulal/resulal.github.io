@@ -1,7 +1,7 @@
 ---
 title: PSE Tools :wrench
 permalink: /psetools/
-# layout: posts
+layout: single
 author_profile: true
 ---
 
