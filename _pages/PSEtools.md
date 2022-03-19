@@ -36,6 +36,7 @@ projects_row1:
 <link rel="stylesheet" href="/assets/styles/projects.css">
 
 # PSE Tools
+Some of the PSE tools that I lovingly contributed. 
 {% include project_row id="projects_row1" %}
 
 
