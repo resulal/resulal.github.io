@@ -2,5 +2,9 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "PSE Tools"
+    url: /psetools/
+  - title: "Publications"
+    url: /publications/
   - title: "CV"
     url: /CV/    
