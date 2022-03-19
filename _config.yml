@@ -98,23 +98,23 @@ author:
   bio              : >- 
     Process Systems Engineer
   location         : "Copenhagen, Denmark"
-  email            : "meresul@gmail.com"
+  email            : #"meresul@gmail.com"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "elliottking93@gmail.com"
-    - label: "aresulal"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aresulal"
     - label: "resulal"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/resulal"
-    # - label: "@Resul"
-    #   icon: "fab fa-medium"
-    #   url: "https://medium.com/@Resul"
     - label: "resulal"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/resulal/"
+    - label: "aresulal"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/aresulal"
+    # - label: "@Resul"
+    #   icon: "fab fa-medium"
+    #   url: "https://medium.com/@Resul"
 
 # Site Footer
 footer:
