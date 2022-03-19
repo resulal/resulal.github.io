@@ -35,7 +35,6 @@ projects_row1:
 ---
 <link rel="stylesheet" href="/assets/styles/projects.css">
 
-## Projects that led to development of PSE tools
 {% include project_row id="projects_row1" %}
 
 
