@@ -11,13 +11,11 @@ header:
   overlay_color: "#000"
   overlay_image: /assets/images/gradient.png
   # caption: "Gradient from [Coolers](https://coolors.co)"
-excerpt: "I am a process systems engineer based in Copenhagen. I enjoy the intersection of process systems and data science."
+excerpt: "I am a process systems engineer based in Copenhagen, Denmark. I enjoy *systems* thinking and love data science."
 ---
 
-## Hi, I'm Dr. Resul Al.
+## Hi, I'm Resul.
 
-I have a PhD in process systems engineering from Technical University of Denmark. 
+I am a chemical and a process systems engineer and I hold a Ph.D. in applying process systems engineering principles to the early-stage process design of wastewater treatment plants. Throughout my education, I have also acquired a profound understanding of modeling, simulation, and optimization of engineering processes as well as first hand experiences of algorithm development for data-driven decision making under uncertainty. I am currently working at the R&ED business area of [Novo Nordisk A/S](https://www.novonordisk.com/). 
 
-I am currently working at R&ED business area of [Novo Nordisk](https://www.novonordisk.com/). 
-
-Reach out on [LinkedIn](https://www.linkedin.com/in/resulal/) or just [email me](mailto:meresul@gmail.com) if you would like to do so! 
+Reach out on [LinkedIn](https://www.linkedin.com/in/resulal/) or just [email me](mailto:meresul@gmail.com)! 
