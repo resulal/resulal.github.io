@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "Resul Al"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Resul.jpg"
   bio              : >- 
-    "Process Systems Engineer\Novo Nordisk A/S"
+    Process Systems Engineer
   location         : "Copenhagen, Denmark"
   email            : "meresul@gmail.com"
   links:
@@ -109,9 +109,9 @@ author:
     - label: "resulal"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/resulal"
-    - label: "@Resul"
-      icon: "fab fa-medium"
-      url: "https://medium.com/@Resul"
+    # - label: "@Resul"
+    #   icon: "fab fa-medium"
+    #   url: "https://medium.com/@Resul"
     - label: "resulal"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/resulal/"
@@ -128,9 +128,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/resulal"
-    - label: "Medium"
-      icon: "fab fa-medium"
-      url: "https://medium.com/@Resul"
+    # - label: "Medium"
+    #   icon: "fab fa-medium"
+    #   url: "https://medium.com/@Resul"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/resulal/"
