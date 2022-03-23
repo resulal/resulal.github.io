@@ -10,13 +10,7 @@ header:
   actions:
   - label: "<i class='fa fa-coffee'></i> Pour yourself a nice cup of coffee and have a look around."
     url: 
-excerpt: "and this is **Thinking Systems** – a personal journal of technical writings. Welcome! I am a practicing process systems engineer based in Copenhagen area in Denmark. I enjoy *systems* thinking and love data-driven algorithms."
+excerpt: "Welcome to **Thinking Systems** – a personal journal of writings on technical topics. I am Resul, a practicing process systems engineer based in Copenhagen area in Denmark. I enjoy *systems* thinking and love data-driven algorithms."
 ---
 
-Hi, I'm Resul.
-
-I am a chemical and a process systems engineer and I hold a Ph.D. in applying process systems engineering principles to the early-stage process design problems. Throughout my education, I have also acquired a profound understanding of modeling, simulation, and optimization of engineering processes as well as first hand experiences of algorithm development for data-driven decision making under uncertainty. I am currently working at the Research & Early Development business area of [Novo Nordisk A/S](https://www.novonordisk.com/). 
-
-To reach out, send a message on [LinkedIn](https://www.linkedin.com/in/resulal/) or just [email](mailto:meresul@gmail.com) me! 
-
-## Stay tuned.
+> Stay Hungry. Stay Foolish.

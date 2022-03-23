@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "→Posts"
     url: /posts/
-  - title: "→PSE Tools."
+  - title: "→PSE Tools"
     url: /psetools/
   - title: "→Publications"
     url: /publications/
