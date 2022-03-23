@@ -7,7 +7,10 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/gradient.png
-excerpt: "and this is **Thinking Systems** – a personal journal of technical writings. I am a practicing process systems engineer based in Copenhagen area in Denmark. I enjoy *systems* thinking and love data-driven algorithms. Pour a nice cup of coffee <i class="fa fa-coffee" aria-hidden="true"></i>"
+  actions:
+  - label: "<i class='fa fa-coffee'></i> Pour yourself a nice cup of coffee."
+    url: 
+excerpt: "and this is **Thinking Systems** – a personal journal of technical writings. I am a practicing process systems engineer based in Copenhagen area in Denmark. I enjoy *systems* thinking and love data-driven algorithms."
 ---
 
 ## Hi, I'm Resul.
