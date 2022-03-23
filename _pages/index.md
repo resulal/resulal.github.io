@@ -17,6 +17,6 @@ Hi, I'm Resul.
 
 I am a chemical and a process systems engineer and I hold a Ph.D. in applying process systems engineering principles to the early-stage process design problems. Throughout my education, I have also acquired a profound understanding of modeling, simulation, and optimization of engineering processes as well as first hand experiences of algorithm development for data-driven decision making under uncertainty. I am currently working at the Research & Early Development business area of [Novo Nordisk A/S](https://www.novonordisk.com/). 
 
-To reach out, send a message on [LinkedIn](https://www.linkedin.com/in/resulal/) or an old school [email](mailto:meresul@gmail.com)! 
+To reach out, send a message on [LinkedIn](https://www.linkedin.com/in/resulal/) or just [email](mailto:meresul@gmail.com) me! 
 
 ## Stay tuned.
