@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_image: /assets/images/gradient.png
   actions:
-  - label: "<i class='fa fa-coffee'></i> Pour yourself a nice cup of coffee."
+  - label: "<i class='fa fa-coffee'></i> Pour yourself a nice cup of coffee and have a look around"
     url: 
 excerpt: "and this is **Thinking Systems** – a personal journal of technical writings. I am a practicing process systems engineer based in Copenhagen area in Denmark. I enjoy *systems* thinking and love data-driven algorithms."
 ---
