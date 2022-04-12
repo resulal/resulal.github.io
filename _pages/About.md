@@ -8,7 +8,8 @@ author_profile: true
 #   og_image: /assets/images/REUA.jpg
 ---
 
-![Credits: CONTINEO By Jesper Edvardsen](/assets/images/REUA.jpg)
+![](/assets/images/REUA.jpg)
+*Credits: CONTINEO By Jesper Edvardsen*
 
 A mechanical/chemical engineer with a specialization in process systems engineering (PSE) – a scientific discipline that promotes systematic thinking (e.g., components, subsystems, and subprocesses) to assist often high-stakes engineering decision-making in the design, control, and optimization of process systems. 
 
